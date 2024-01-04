@@ -19,7 +19,7 @@ type BoundingBox = {
 
 type Point = { x: number; y: number };
 
-type Symbol = {
+export type Symbol = {
   text: string;
   cornerPoints?: Point[];
   frame?: BoundingFrame;

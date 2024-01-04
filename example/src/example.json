@@ -1,0 +1,256 @@
+{
+  "blocks": [
+    {
+      "boundingBox": {"bottom": 716, "left": 730, "right": 835, "top": 237},
+      "cornerPoints": [
+        {"x": 730, "y": 715},
+        {"x": 739, "y": 237},
+        {"x": 835, "y": 238},
+        {"x": 826, "y": 716}
+      ],
+      "frame": {
+        "boundingCenterX": 782,
+        "boundingCenterY": 476,
+        "height": 479,
+        "width": 105,
+        "x": 782.5,
+        "y": 476.5
+      },
+      "lines": [
+        {
+          "boundingBox": {"bottom": 716, "left": 730, "right": 835, "top": 237},
+          "cornerPoints": [
+            {"x": 730, "y": 715},
+            {"x": 739, "y": 237},
+            {"x": 835, "y": 238},
+            {"x": 826, "y": 716}
+          ],
+          "elements": [
+            {
+              "boundingBox": {
+                "bottom": 716,
+                "left": 730,
+                "right": 835,
+                "top": 237
+              },
+              "cornerPoints": [
+                {"x": 730, "y": 715},
+                {"x": 739, "y": 237},
+                {"x": 835, "y": 238},
+                {"x": 826, "y": 716}
+              ],
+              "frame": {
+                "boundingCenterX": 782,
+                "boundingCenterY": 476,
+                "height": 479,
+                "width": 105,
+                "x": 782.5,
+                "y": 476.5
+              },
+              "symbols": [
+                {
+                  "boundingBox": {
+                    "bottom": 716,
+                    "left": 731,
+                    "right": 827,
+                    "top": 650
+                  },
+                  "cornerPoints": [
+                    {"x": 731, "y": 715},
+                    {"x": 732, "y": 650},
+                    {"x": 827, "y": 651},
+                    {"x": 826, "y": 716}
+                  ],
+                  "frame": {
+                    "boundingCenterX": 779,
+                    "boundingCenterY": 683,
+                    "height": 66,
+                    "width": 96,
+                    "x": 779,
+                    "y": 683
+                  },
+                  "text": "6"
+                },
+                {
+                  "boundingBox": {
+                    "bottom": 623,
+                    "left": 732,
+                    "right": 827,
+                    "top": 585
+                  },
+                  "cornerPoints": [
+                    {"x": 732, "y": 622},
+                    {"x": 732, "y": 585},
+                    {"x": 827, "y": 586},
+                    {"x": 827, "y": 623}
+                  ],
+                  "frame": {
+                    "boundingCenterX": 779,
+                    "boundingCenterY": 604,
+                    "height": 38,
+                    "width": 95,
+                    "x": 779.5,
+                    "y": 604
+                  },
+                  "text": "0"
+                },
+                {
+                  "boundingBox": {
+                    "bottom": 595,
+                    "left": 733,
+                    "right": 828,
+                    "top": 551
+                  },
+                  "cornerPoints": [
+                    {"x": 733, "y": 594},
+                    {"x": 733, "y": 551},
+                    {"x": 828, "y": 552},
+                    {"x": 828, "y": 595}
+                  ],
+                  "frame": {
+                    "boundingCenterX": 780,
+                    "boundingCenterY": 573,
+                    "height": 44,
+                    "width": 95,
+                    "x": 780.5,
+                    "y": 573
+                  },
+                  "text": "-"
+                },
+                {
+                  "boundingBox": {
+                    "bottom": 521,
+                    "left": 734,
+                    "right": 830,
+                    "top": 466
+                  },
+                  "cornerPoints": [
+                    {"x": 734, "y": 520},
+                    {"x": 735, "y": 466},
+                    {"x": 830, "y": 467},
+                    {"x": 829, "y": 521}
+                  ],
+                  "frame": {
+                    "boundingCenterX": 782,
+                    "boundingCenterY": 493,
+                    "height": 55,
+                    "width": 96,
+                    "x": 782,
+                    "y": 493.5
+                  },
+                  "text": "P"
+                },
+                {
+                  "boundingBox": {
+                    "bottom": 454,
+                    "left": 735,
+                    "right": 830,
+                    "top": 407
+                  },
+                  "cornerPoints": [
+                    {"x": 735, "y": 453},
+                    {"x": 735, "y": 407},
+                    {"x": 830, "y": 408},
+                    {"x": 830, "y": 454}
+                  ],
+                  "frame": {
+                    "boundingCenterX": 782,
+                    "boundingCenterY": 430,
+                    "height": 47,
+                    "width": 95,
+                    "x": 782.5,
+                    "y": 430.5
+                  },
+                  "text": "J"
+                },
+                {
+                  "boundingBox": {
+                    "bottom": 390,
+                    "left": 737,
+                    "right": 832,
+                    "top": 348
+                  },
+                  "cornerPoints": [
+                    {"x": 737, "y": 389},
+                    {"x": 737, "y": 348},
+                    {"x": 832, "y": 349},
+                    {"x": 832, "y": 390}
+                  ],
+                  "frame": {
+                    "boundingCenterX": 784,
+                    "boundingCenterY": 369,
+                    "height": 42,
+                    "width": 95,
+                    "x": 784.5,
+                    "y": 369
+                  },
+                  "text": "R"
+                },
+                {
+                  "boundingBox": {
+                    "bottom": 343,
+                    "left": 738,
+                    "right": 833,
+                    "top": 300
+                  },
+                  "cornerPoints": [
+                    {"x": 738, "y": 342},
+                    {"x": 738, "y": 300},
+                    {"x": 833, "y": 301},
+                    {"x": 833, "y": 343}
+                  ],
+                  "frame": {
+                    "boundingCenterX": 785,
+                    "boundingCenterY": 321,
+                    "height": 43,
+                    "width": 95,
+                    "x": 785.5,
+                    "y": 321.5
+                  },
+                  "text": "-"
+                },
+                {
+                  "boundingBox": {
+                    "bottom": 281,
+                    "left": 739,
+                    "right": 834,
+                    "top": 237
+                  },
+                  "cornerPoints": [
+                    {"x": 739, "y": 280},
+                    {"x": 739, "y": 237},
+                    {"x": 834, "y": 238},
+                    {"x": 834, "y": 281}
+                  ],
+                  "frame": {
+                    "boundingCenterX": 786,
+                    "boundingCenterY": 259,
+                    "height": 44,
+                    "width": 95,
+                    "x": 786.5,
+                    "y": 259
+                  },
+                  "text": "3"
+                }
+              ],
+              "text": "60-PJR-3"
+            }
+          ],
+          "frame": {
+            "boundingCenterX": 782,
+            "boundingCenterY": 476,
+            "height": 479,
+            "width": 105,
+            "x": 782.5,
+            "y": 476.5
+          },
+          "recognizedLanguages": ["und-Latn"],
+          "text": "60-PJR-3"
+        }
+      ],
+      "recognizedLanguages": ["und"],
+      "text": "60-PJR-3"
+    }
+  ],
+  "text": "60-PJR-3"
+}

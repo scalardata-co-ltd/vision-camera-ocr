@@ -12,10 +12,9 @@
  import com.google.mlkit.vision.text.TextRecognition
  import com.google.mlkit.vision.text.latin.TextRecognizerOptions
 
-
- import com.mrousavy.camera.frameprocessor.Frame
- import com.mrousavy.camera.frameprocessor.FrameProcessorPlugin
- import com.mrousavy.camera.types.Orientation
+ import com.mrousavy.camera.frameprocessors.Frame
+ import com.mrousavy.camera.frameprocessors.FrameProcessorPlugin
+ import com.mrousavy.camera.core.types.Orientation
 
  class OCRFrameProcessorPlugin(options: MutableMap<String, Any>?) : FrameProcessorPlugin() {
 

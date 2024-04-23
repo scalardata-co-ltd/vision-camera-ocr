@@ -143,7 +143,7 @@
          val orientation = Orientation.fromUnionValue(frame.orientation.toString())
 
          if (mediaImage != null && orientation!= null) {
-             val image = InputImage.fromMediaImage(mediaImage, orientation.toDegrees())
+             val image = InputImage.fromMediaImage(mediaImage, orientation.toSurfaceRotation())
              val task: Task<Text> = recognizer.process(image)
              try {
                  val text: Text = Tasks.await(task)
